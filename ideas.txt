@@ -1,2 +1,67 @@
 
 idea 1: A schedual website similar to areabook. 
+- map element
+- you can store elements on a map. 
+- stores annual things to do in a database
+- calandar
+- todo  list of things that can be marked off on 
+- a graph or other kinda data visualization that can be used to show how often you stick to the schedual. 
+
+idea 2: A entertainment website to keep track of what fun things you want to do.
+- todo list
+- database of movies and books to read and watch
+- database of videogames
+- shopping cart for stuff movies, books, etc that you have to buy.
+
+idea 3: Old Man Joe inc
+- shopping center and resturant
+- map of locations
+- login capable
+- database of things to sell and food to eat
+
+idea 4: wikipedia database and planner
+- a list making website 
+- a browser that will bring up info from wiki (is that possible?)
+- notetaking notebook function for projects. (Can be saved in a PDF)
+- Mini Youtube Player for research
+
+idea 5: financial tracker
+Shows stocks
+You can link your bank accounts(?)
+create plans and input how much money you want to spend weekly, monthly, yearly.
+add what debts you have
+
+
+
+
+Hobbies / interests:
+art
+animals
+memes
+cartoons 
+video games
+
+daily activities:
+financial stuff
+reading
+eating
+coding
+
+problems:
+being distracted - make a program to call the police if you don't get done within a certain amount of time :)
+time - code a time machine
+keeping track of stuff
+
+Friend/family suggested apps:
+resturant apps
+something with a shopping cart and login
+
+Most used websites:
+youtube
+deviantart
+amazon
+google 
+skillshare
+
+
+
